@@ -4,7 +4,7 @@
 
 ### Desenvolvedor Python | Analista de Dados SQL Server
 
-Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) focado na transição para a área de Dados. Meu objetivo é transformar dados brutos em decisões estratégicas, utilizando ferramentas de BI, banco de dados e automação com Python.
+Sou formado em Análise e Desenvolvimento de Sistemas (ADS) focado na transição para a área de Dados. Meu objetivo é transformar dados brutos em decisões estratégicas, utilizando ferramentas de BI, banco de dados e automação com Python.
 
 Atualmente, dedico-me a construir um portfólio sólido que demonstre maturidade técnica em modelagem de dados e visualização.
 
