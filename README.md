@@ -1,7 +1,7 @@
-# 👋 Rodrigo Campos - Full-Stack Developer
+# 👋 Rodrigo Campos - Desenvolvedor Full-Stack
 
 <div align="center">
-  <p><strong>React • Node.js • Python • Data Analytics</strong></p>
+  <p><strong>React • Node.js • Python • Análise de Dados</strong></p>
   <p>Desenvolvendo sistemas para empresas. Transformando ideias em código.</p>
 </div>
 
@@ -9,13 +9,13 @@
 
 ## 🚀 Sobre Mim
 
-**Full-Stack Developer** com expertise em:
+**Desenvolvedor Full-Stack** com expertise em:
 - 🎨 **Frontend**: React, Vite, Tailwind CSS, componentes responsivos
 - 🔧 **Backend**: Node.js, Express, SQLite, arquitetura escalável
-- 📊 **Data & Analytics**: Python, SQL Server, Power BI, análises avançadas
+- 📊 **Dados & Análise**: Python, SQL Server, Power BI, análises avançadas
 - 📱 **Sistemas Completos**: Desenvolvimento end-to-end de aplicações empresariais
 
-Sou formado em **Análise e Desenvolvimento de Sistemas (ADS)** e estou em transição estratégica para consolidar expertise em **sistemas completos** e **data-driven decisions**. Tenho uma trajetória comprovada em entregar soluções que geram impacto real.
+Sou formado em **Análise e Desenvolvimento de Sistemas (ADS)** e estou em transição estratégica para consolidar expertise em **sistemas completos** e **decisões orientadas por dados**. Tenho uma trajetória comprovada em entregar soluções que geram impacto real.
 
 ---
 
@@ -35,7 +35,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas (ADS)** e estou em trans
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-**Data & Analytics**
+**Dados & Análise**
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
@@ -48,7 +48,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas (ADS)** e estou em trans
 ## 🎯 Projetos em Destaque
 
 ### 1️⃣ **Sistema de Gestão para Cabeleireiro** 💇
-**[React + Node.js + SQLite]** | *Full-stack production-ready*  
+**[React + Node.js + SQLite]** | *Full-stack pronto para produção*  
 Sistema completo de gestão para salões/barbearias com dashboard de KPIs, agendamentos, controle de estoque, comissões e relatórios avançados.
 - 📊 Dashboard com gráficos de comissão em tempo real
 - 📅 Sistema inteligente de agendamentos
@@ -56,23 +56,23 @@ Sistema completo de gestão para salões/barbearias com dashboard de KPIs, agend
 - 📱 Interface responsiva e moderna
 
 ### 2️⃣ **Sistema Tree Prime** 🌳
-**[React + Node.js + SQLite]** | *Enterprise ERP*  
+**[React + Node.js + SQLite]** | *ERP Empresarial*  
 Plataforma de gestão empresarial com financeiro, RH, estoque e relatórios avançados.
 
 ### 3️⃣ **FutPass - Gestão de Escolinha** ⚽
-**[React + Node.js]** | *Sports Management*  
+**[React + Node.js]** | *Gestão de Esportes*  
 Sistema para academias de futebol com controle de alunos, turmas, pagamentos e presença.
 
 ### 4️⃣ **Dashboard de Análise - Power BI** 📊
-**[Power BI + SQL Server]** | *Advanced Analytics*  
-Dashboards administrativos com análise de KPIs, vendas e performance operacional.
+**[Power BI + SQL Server]** | *Análise Avançada*  
+Dashboards administrativos com análise de KPIs, vendas e desempenho operacional.
 
 ### 5️⃣ **Análise de Vendas - SQL Avançado** 🗄️
-**[SQL Server + AdventureWorks]** | *Data Insights*  
-Queries complexas com CTEs, Window Functions e relatórios de desempenho.
+**[SQL Server + AdventureWorks]** | *Insights de Dados*  
+Consultas complexas com CTEs, Window Functions e relatórios de desempenho.
 
-### 6️⃣ **Snake Game** 🐍
-**[JavaScript Puro + Canvas API]** | *Game Development*  
+### 6️⃣ **Jogo da Cobrinha** 🐍
+**[JavaScript Puro + Canvas API]** | *Desenvolvimento de Jogos*  
 Jogo clássico demonstrando lógica, controles por teclado e sistema de pontuação.
 
 ---
