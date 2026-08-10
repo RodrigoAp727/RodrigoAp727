@@ -1,21 +1,22 @@
 # 👋 Rodrigo Campos - Analista de Dados Jr
 
 <div align="center">
-  <p><strong>Python • SQL • Power BI | Full-stack como diferencial técnico</strong></p>
-  <p>📊 Transformando dados em insights e soluções práticas para negócios</p>
+  <p><strong>Python • SQL • Power BI | ETL, pipelines e tomada de decisão orientada a dados</strong></p>
+  <p>📊 Construo pipelines de dados, dashboards executivos e soluções analíticas com foco em resultado para negócios.</p>
 </div>
 
 ---
 
 ## 🌟 SOBRE MIM
 
-**Analista de Dados Jr em transição de carreira técnica**, com foco em construir soluções analíticas e de negócio com Python, SQL e Power BI. Uso minha experiência em desenvolvimento full-stack como diferencial para entregar projetos end-to-end, mas minha identidade principal é a análise de dados, a modelagem de problemas e a transformação de informação em decisão.
+**Analista de Dados Jr em transição de carreira técnica**, com foco em transformar dados em decisão. Tenho trabalhado com ETL, pipeline de dados, modelagem dimensional, modelo estrela, SQL avançado, CTEs, Window Functions, Power BI e automação com Python e Pandas para construir soluções que conectam dado, negócio e ação.
 
-- 📊 **Analytics & Data**: Python, SQL, Power BI, pandas e dashboards executivos
-- 🗄️ **Databases**: modelagem, consultas avançadas e organização de dados para análise
-- 🛠️ **Full-stack como diferencial**: entrego soluções completas quando necessário, mas com foco em valor analítico
+- 📊 **ETL e pipeline de dados**: estruturo fluxos para transformar dados brutos em bases analíticas confiáveis e prontas para análise.
+- 🧱 **Modelagem dimensional e modelo estrela**: organizo dados para apoiar relatórios e dashboards executivos com estrutura mais clara para consumo.
+- 📈 **SQL avançado e Power BI**: aplico CTEs, Window Functions, KPIs e visualizações de negócio para apoiar a tomada de decisão orientada a dados.
+- 🛠️ **Qualidade de dados e automação**: priorizo consistência, rastreabilidade e automação para reduzir retrabalho e aumentar confiabilidade.
 
-**Formado em Análise e Desenvolvimento de Sistemas (ADS)**, tenho uma trajetória comprovada em **entregar soluções que geram impacto real** para empresas, com especial interesse em dados, negócios e decisões.
+**Formado em Análise e Desenvolvimento de Sistemas (ADS)**, entrego soluções que unem análise técnica, contexto de negócio e boa comunicação para gerar impacto real.
 
 ---
 
@@ -25,7 +26,7 @@
 
 **[Python + SQL + Streamlit + Power BI]** | Analytics End-to-End
 
-Projeto voltado para análise financeira e previsibilidade de receita em ecommerce, combinando ETL, visualização e modelos de previsão para apoiar decisões de negócio.
+Implementei uma solução de análise financeira para ecommerce que conecta ETL, Python, dashboards executivos e visão de receita, ajudando a transformar dados em decisão. O projeto resolve o problema de compreender rapidamente o comportamento financeiro da operação e apoiar escolhas com base em dados.
 
 **[🔗 Ver Repositório](https://github.com/RodrigoAp727/Analise-Financeira-Ecommerce)**
 
@@ -35,7 +36,7 @@ Projeto voltado para análise financeira e previsibilidade de receita em ecommer
 
 **[Python + SQL + PostgreSQL + Dashboards]** | Pipeline de Analytics para Varejo
 
-Pipeline completo de analytics para varejo, com ingestão, transformação, modelagem analítica e entregáveis prontos para dashboard e apresentação de portfolio.
+Estruturei um pipeline de dados para varejo com ingestão, transformação, modelagem dimensional e modelo estrela, criando uma base analítica mais sólida para dashboards executivos. O projeto resolve a dificuldade de consolidar vendas, clientes e categorias em uma visão confiável para apoiar a tomada de decisão orientada a dados.
 
 **[🔗 Ver Repositório](https://github.com/RodrigoAp727/smart-retail-analytics)**
 
@@ -45,7 +46,7 @@ Pipeline completo de analytics para varejo, com ingestão, transformação, mode
 
 **[SQL Server + AdventureWorks]** | Data Intelligence
 
-Demonstra expertise em **queries complexas, CTEs, Window Functions** e análise profunda de dados para insights estratégicos.
+Apliquei SQL avançado com CTEs, Window Functions e análise de comportamento comercial para responder perguntas de negócio com clareza e reprodutibilidade. O projeto resolve o problema de extrair padrões e tendências de vendas com consultas robustas e interpretáveis.
 
 **[🔗 Ver Repositório](https://github.com/RodrigoAp727/analise-vendas-sql-adventureworks)**
 
@@ -78,9 +79,9 @@ Demonstra expertise em **queries complexas, CTEs, Window Functions** e análise 
 
 ## 📌 Outros projetos — capacidade full-stack aplicada a negócios reais
 
-- **TreePrime** 🌳 - Sistema empresarial com foco em gestão operacional e relatórios
-- **Sistema de Gestão para Cabeleireiro** 💇 - Plataforma completa para salão e barbearia
-- **FutPass** ⚽ - Gestão de escolinha com operação e fluxo de negócio
+- **TreePrime** 🌳 - Sistema empresarial com foco em gestão operacional e relatórios para decisão.
+- **Sistema de Gestão para Cabeleireiro** 💇 - Plataforma completa para salão e barbearia, com fluxo operacional e dados para acompanhamento.
+- **FutPass** ⚽ - Gestão de escolinha com foco em organização e visibilidade operacional.
 
 ---
 
@@ -97,8 +98,8 @@ Demonstra expertise em **queries complexas, CTEs, Window Functions** e análise 
 
 | Categoria | Competências |
 |-----------|--------------|
-| **Analytics & Data** | Python • SQL • Power BI • Pandas • Dashboards Executivos |
-| **Database** | PostgreSQL • SQL Server • SQLite • Queries Avançadas |
+| **Analytics & Data** | ETL • pipeline de dados • Python • SQL avançado • Power BI • dashboards executivos • KPIs • tomada de decisão orientada a dados • qualidade de dados • automação • Pandas |
+| **Database** | modelagem dimensional • modelo estrela • PostgreSQL • SQL Server • SQLite |
 | **Full-Stack** | React • Node.js • Express • Vite |
 | **Frontend** | Tailwind CSS • Responsividade • UX/UI |
 | **Backend** | APIs REST • Middleware • Validação |
