@@ -1,70 +1,47 @@
-# 👋 Rodrigo Campos - Desenvolvedor Full-Stack
+# 👋 Rodrigo Campos - Analista de Dados Jr
 
 <div align="center">
-  <p><strong>React • Node.js • Python • SQL & Power BI</strong></p>
-  <p>🏆 Especializando em Sistemas Completos & Análise de Dados 📊</p>
+  <p><strong>Python • SQL • Power BI | Full-stack como diferencial técnico</strong></p>
+  <p>📊 Transformando dados em insights e soluções práticas para negócios</p>
 </div>
 
 ---
 
 ## 🌟 SOBRE MIM
 
-**Desenvolvedor Full-Stack** com expertise em desenvolvimento de sistemas empresariais de alto impacto:
-- 🎨 **Frontend Moderno**: React, Vite, Tailwind CSS, componentes responsivos e acessíveis
-- 🔧 **Backend Robusto**: Node.js, Express, arquitetura escalável e segura
-- 📊 **Data Intelligence**: Python, SQL Server, Power BI, dashboards gerenciais
-- 📱 **Soluções End-to-End**: Desenvolvimento completo de aplicações empresariais
+**Analista de Dados Jr em transição de carreira técnica**, com foco em construir soluções analíticas e de negócio com Python, SQL e Power BI. Uso minha experiência em desenvolvimento full-stack como diferencial para entregar projetos end-to-end, mas minha identidade principal é a análise de dados, a modelagem de problemas e a transformação de informação em decisão.
 
-**Formado em Análise e Desenvolvimento de Sistemas (ADS)**, tenho uma trajetória comprovada em **entregar soluções que geram impacto real** para empresas. Foco em qualidade, performance e experiência do usuário.
+- 📊 **Analytics & Data**: Python, SQL, Power BI, pandas e dashboards executivos
+- 🗄️ **Databases**: modelagem, consultas avançadas e organização de dados para análise
+- 🛠️ **Full-stack como diferencial**: entrego soluções completas quando necessário, mas com foco em valor analítico
+
+**Formado em Análise e Desenvolvimento de Sistemas (ADS)**, tenho uma trajetória comprovada em **entregar soluções que geram impacto real** para empresas, com especial interesse em dados, negócios e decisões.
 
 ---
 
 ## 🏆 PROJETOS EM DESTAQUE
 
-### 🥇 1️⃣ Sistema de Gestão para Cabeleireiro 💇
+### 🥇 1️⃣ Analise-Financeira-Ecommerce 📊
 
-**[React + Node.js + SQLite]** | ⭐ Full-stack Production-Ready
+**[Python + SQL + Streamlit + Power BI]** | Analytics End-to-End
 
-> **Sistema completo de gestão empresarial pronto para produção**, desenvolvido para salões e barbearias. Demonstra expertise total em desenvolvimento full-stack com **arquitetura robusta, interface moderna e funcionalidades avançadas**.
+Projeto voltado para análise financeira e previsibilidade de receita em ecommerce, combinando ETL, visualização e modelos de previsão para apoiar decisões de negócio.
 
-#### 💾 Funcionalidades Principais
-- 📊 **Dashboard de Tempo Real** - KPIs, gráficos de comissão, receita total
-- 📅 **Sistema de Agendamentos** - Validação, filtros, cliente/profissional
-- 👥 **Gestão de Clientes** - Cadastro completo, histórico de serviços
-- 💼 **Gestão de Profissionais** - Comissões, performance, metas
-- 📦 **Controle de Estoque** - Produtos, níveis mínimos, rastreamento
-- 📈 **Relatórios Gerenciais** - Faturamento, vendas, análises por período
-- 💬 **Integração WhatsApp** - Central de mensagens
-- 🎨 **Interface Responsiva** - Dark mode, UX otimizada, 100% funcional
-
-#### 🔧 Stack Técnico
-```
-Frontend:  React + Vite + Tailwind CSS + Context API
-Backend:   Node.js + Express + Middleware + Validação
-Database:  SQLite + Queries otimizadas + Estrutura relacional
-```
-
-#### 📊 Destaques
-- ✅ 6+ screenshots de funcionalidades reais
-- ✅ Código bem documentado e estruturado
-- ✅ Deploy pronto para produção
-- ✅ Demonstra expertise em full-stack completo
-
-**[🔗 Ver Repositório](https://github.com/RodrigoAp727/sistema-gestao-cabeleireiro)** | **[📋 Documentação](https://github.com/RodrigoAp727/sistema-gestao-cabeleireiro/blob/main/README.md)**
+**[🔗 Ver Repositório](https://github.com/RodrigoAp727/Analise-Financeira-Ecommerce)**
 
 ---
 
-### 🥈 2️⃣ SISTEMA-GESTAO-TREEPRIME 🌳
+### 🥈 2️⃣ smart-retail-analytics 🛒
 
-**[React + Node.js + SQLite]** | Enterprise ERP
+**[Python + SQL + PostgreSQL + Dashboards]** | Pipeline de Analytics para Varejo
 
-Plataforma de gestão empresarial completa com módulos de **financeiro, RH, estoque e relatórios avançados**. Sistema pronto para escalar operações.
+Pipeline completo de analytics para varejo, com ingestão, transformação, modelagem analítica e entregáveis prontos para dashboard e apresentação de portfolio.
 
-**[🔗 Ver Repositório](https://github.com/RodrigoAp727/SISTEMA-GESTAO-TREEPRIME)**
+**[🔗 Ver Repositório](https://github.com/RodrigoAp727/smart-retail-analytics)**
 
 ---
 
-### 🥉 3️⃣ Análise de Vendas - SQL Avançado 🗄️
+### 🥉 3️⃣ Analise de Vendas - SQL Avançado 🗄️
 
 **[SQL Server + AdventureWorks]** | Data Intelligence
 
@@ -74,37 +51,36 @@ Demonstra expertise em **queries complexas, CTEs, Window Functions** e análise 
 
 ---
 
-## 💻 Stack Tecnológico Completo
+## 💻 Stack Tecnológico
 
 <div align="center">
 
-### Frontend
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
 ### Data & Analytics
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Frontend / Backend
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 </div>
 
 ---
 
-## 📌 Outros Projetos
+## 📌 Outros projetos — capacidade full-stack aplicada a negócios reais
 
-- **FutPass - Gestão de Escolinha** ⚽ - Sistema para academias de futebol
-- **Dashboard de Análise - Power BI** 📊 - Dashboards administrativos com KPIs
-- **Jogo da Cobrinha** 🐍 - Game development com JavaScript puro
+- **TreePrime** 🌳 - Sistema empresarial com foco em gestão operacional e relatórios
+- **Sistema de Gestão para Cabeleireiro** 💇 - Plataforma completa para salão e barbearia
+- **FutPass** ⚽ - Gestão de escolinha com operação e fluxo de negócio
 
 ---
 
@@ -121,11 +97,11 @@ Demonstra expertise em **queries complexas, CTEs, Window Functions** e análise 
 
 | Categoria | Competências |
 |-----------|--------------|
-| **Full-Stack** | React • Node.js • SQLite • Express • Vite |
+| **Analytics & Data** | Python • SQL • Power BI • Pandas • Dashboards Executivos |
+| **Database** | PostgreSQL • SQL Server • SQLite • Queries Avançadas |
+| **Full-Stack** | React • Node.js • Express • Vite |
 | **Frontend** | Tailwind CSS • Responsividade • UX/UI |
 | **Backend** | APIs REST • Middleware • Validação |
-| **Database** | SQL • Queries Avançadas • Schema Design |
-| **Analytics** | Power BI • Python • Dashboards Executivos |
 | **DevOps** | Git • GitHub • Versionamento |
 
 ---
