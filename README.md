@@ -1,16 +1,9 @@
 # 👋 Rodrigo Campos - Analista de Dados Jr
 
 <div align="center">
-  <p><strong>Python • SQL • Power BI | ETL, pipelines e tomada de decisão orientada a dados</strong></p>
+  <p><strong>Python • SQL • PostgreSQL • Power BI • ETL/ELT</strong></p>
   <p>📊 Construo pipelines de dados, dashboards executivos e soluções analíticas com foco em resultado para negócios.</p>
 </div>
-
----
-## 👋 Rodrigo Campos - Analista de Dados Jr | Engenharia de Dados
-
-**Python • SQL • PostgreSQL • Power BI • ETL/ELT**
-
-🏆 Transformando dados brutos em decisões de negócio 📊
 
 ---
 
@@ -46,7 +39,17 @@ Busco minha primeira posição como **Analista de Dados Jr** ou **Analista Finan
 
 ---
 
-### 🥈 2️⃣ Análise Financeira E-commerce (Olist) 💰
+### 🥈 2️⃣ DataSentinel — Qualidade e Monitoramento de Dados 🩺
+
+**[Python + Streamlit + Plotly + Docker + CI]** | Data Quality & Monitoring
+
+> Pipeline automatizado de qualidade, análise e monitoramento de dados para operações críticas. Demonstração aplicada ao setor de saúde (indicadores clínicos e custo por internação), com dashboard interativo e galeria de gráficos executivos.
+
+**[🔗 Ver Repositório](https://github.com/RodrigoAp727/datasentinel-analytics-pipeline)**
+
+---
+
+### 🥉 3️⃣ Análise Financeira E-commerce (Olist) 💰
 
 **[Python + SQLite + Streamlit]** | Financial Analytics
 
@@ -56,7 +59,7 @@ Busco minha primeira posição como **Analista de Dados Jr** ou **Analista Finan
 
 ---
 
-### 🥉 3️⃣ Análise de Vendas — SQL Avançado 🗄️
+### 4️⃣ Análise de Vendas — SQL Avançado 🗄️
 
 **[SQL Server + AdventureWorks]** | Data Intelligence
 
@@ -81,9 +84,10 @@ Busco minha primeira posição como **Analista de Dados Jr** ou **Analista Finan
 
 ## 📌 Outros Projetos
 
-- **SISTEMA-GESTAO-TREEPRIME** 🌳 — ERP full-stack (React + Node.js) com módulos financeiro, RH, estoque
-- **FutPass - Gestão de Escolinha** ⚽ — Sistema para academias de futebol (React + Node.js)
-- **Sistema de Gestão para Cabeleireiro** 💇 — Sistema completo de agendamento e gestão
+- **[sistema-gestao-treeprime](https://github.com/RodrigoAp727/sistema-gestao-treeprime)** 🌳 — ERP full-stack (React + Node.js) com módulos financeiro, RH, estoque
+- **[FutPass_App](https://github.com/RodrigoAp727/FutPass_App)** ⚽ — Gestão de escolinhas de futebol (Node.js + Express + MongoDB Atlas), versão em produção
+- **[Dashboard Administrativo Power BI](https://github.com/RodrigoAp727/dashboard-administrativo-powerbi)** 📊 — KPIs, vendas e desempenho operacional
+- **[Sistema de Gestão para Cabeleireiro](https://github.com/RodrigoAp727/sistema-gestao-cabeleireiro)** 💇 — Agendamento e gestão completa (React + Node.js)
 
 ---
 
