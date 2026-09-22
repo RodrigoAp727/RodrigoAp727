@@ -84,10 +84,10 @@ Busco minha primeira posição como **Analista de Dados Jr** ou **Analista Finan
 
 ## 📌 Outros Projetos
 
-- **[sistema-gestao-treeprime](https://github.com/RodrigoAp727/sistema-gestao-treeprime)** 🌳 — ERP full-stack (React + Node.js) com módulos financeiro, RH, estoque
-- **[FutPass_App](https://github.com/RodrigoAp727/FutPass_App)** ⚽ — Gestão de escolinhas de futebol (Node.js + Express + MongoDB Atlas), versão em produção
+- **[Sistema de Gestão para Barbearias/Salões](https://github.com/RodrigoAp727/sistema-gestao-cabeleireiro)** 💈 — Full-stack production-ready (React + Node.js + SQLite), com testes automatizados de segurança
+- **[FutPass_App](https://github.com/RodrigoAp727/FutPass_App)** ⚽ — Gestão de escolinhas de futebol em produção (Node.js puro + MongoDB Atlas), deploy no Render
 - **[Dashboard Administrativo Power BI](https://github.com/RodrigoAp727/dashboard-administrativo-powerbi)** 📊 — KPIs, vendas e desempenho operacional
-- **[Sistema de Gestão para Cabeleireiro](https://github.com/RodrigoAp727/sistema-gestao-cabeleireiro)** 💇 — Agendamento e gestão completa (React + Node.js)
+- **[Tree Prime](https://github.com/RodrigoAp727/sistema-gestao-treeprime)** 📋 — Protótipo client-side de checklist para escritório contábil (JavaScript puro)
 
 ---
 
