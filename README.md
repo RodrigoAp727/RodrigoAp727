@@ -22,6 +22,23 @@ Busco minha primeira posição como **Analista de Dados Jr** ou **Analista Finan
 
 ## 🏆 PROJETOS EM DESTAQUE
 
+### 🆕 Previsão de Cancelamento de Cartões de Crédito 💳
+
+**[Python + scikit-learn + pytest + GitHub Actions]** | Análise preditiva com impacto financeiro
+
+> Quem vai cancelar, por quê, e quanto vale agir antes. Diagnóstico estatístico de 10 mil clientes, modelo preditivo e simulação do retorno financeiro da campanha de retenção, até uma fila de clientes em risco pronta para a equipe usar.
+
+**Destaques técnicos:**
+- 🎯 Modelo de gradient boosting com **ROC-AUC 0,993**: identifica 89% dos cancelamentos com 92% de precisão em dados nunca vistos
+- 💰 Contatando só 19% da base, alcança 96% dos cancelamentos, com lucro estimado **3,2 vezes maior** que o de uma regra simples
+- 🔍 Detectei e corrigi um erro de escala em 9% dos registros que distorcia duas variáveis
+- 📋 Script que gera a fila de retenção (261 clientes ativos em risco), com os motivos de cada alerta
+- ✅ 15 testes com pytest, e o CI executa o notebook inteiro a cada push
+
+**[🔗 Ver Repositório](https://github.com/RodrigoAp727/previsao-cancelamento-cartoes)** · **[▶️ Abrir no Colab](https://colab.research.google.com/github/RodrigoAp727/previsao-cancelamento-cartoes/blob/main/notebooks/analise_cancelamento_cartoes.ipynb)**
+
+---
+
 ### 🥇 1️⃣ Smart Retail Analytics — Pipeline de Engenharia de Dados 📊
 
 **[Python + PostgreSQL + Docker + GitHub Actions]** | Projeto completo de dados
@@ -72,7 +89,7 @@ Busco minha primeira posição como **Analista de Dados Jr** ou **Analista Finan
 ## 💻 Stack Tecnológico
 
 ### Dados & Analytics
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### Engenharia & Automação
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
@@ -103,6 +120,7 @@ Busco minha primeira posição como **Analista de Dados Jr** ou **Analista Finan
 | ---------------------- | -------------------------------------------------- |
 | **Engenharia de Dados** | ETL/ELT • Star Schema • SCD Tipo 2 • Docker • CI/CD |
 | **Análise de Dados**   | Python • Pandas • SQL Avançado • Power BI           |
+| **Machine Learning**   | scikit-learn • Modelos de classificação • Estatística aplicada |
 | **Database**           | PostgreSQL • SQL Server • Schema Design             |
 | **Qualidade**          | pytest • Lint • Versionamento (Git/GitHub)          |
 | **Full-Stack**         | React • Node.js • Express (background complementar) |
