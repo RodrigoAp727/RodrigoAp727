@@ -40,6 +40,17 @@ Quem vai cancelar, por quê e quanto vale agir antes. Modelo de gradient boostin
 
 `Python` `scikit-learn` `pytest` `GitHub Actions`
 
+#### [Robô BI](https://github.com/RodrigoAp727/gerador-relatorios)
+
+Você sobe arquivos em qualquer formato (Excel com várias abas, CSV, JSON, XML, ODS) e o robô identifica o assunto pelo conteúdo das colunas, valida cada linha e gera painéis de BI interativos. Pode ser uma carteira de plano de saúde, seguros multirramo ou qualquer outra área.
+
+- **Saúde:** sinistralidade, pirâmide etária ANS, reajuste técnico por renovação e sinistros após a exclusão do beneficiário (valor contestável).
+- **Seguros:** sinistralidade sobre prêmio ganho pro rata die, frequência, severidade e ticket médio por ramo, UF, canal e corretor.
+- **Testes:** conferem os números contra um cálculo independente nos arquivos brutos. O prêmio ganho somado ao valor a apropriar fecha com o prêmio emitido, ao centavo.
+- **Python puro, sem dependências:** o leitor de XLSX e ODS foi escrito do zero com zipfile e XML.
+
+`Python` `BI` `Seguros` `Qualidade de dados` `pytest`
+
 #### [Smart Retail Analytics](https://github.com/RodrigoAp727/smart-retail-analytics)
 
 Pipeline ETL de vendas com modelo estrela em PostgreSQL, histórico SCD Tipo 2 e upsert idempotente, que permite reprocessar e fazer backfill sem duplicar dados. Containerizado, testado e com CI.
